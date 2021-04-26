@@ -1,4 +1,4 @@
-##### H1 Seja bem vindo ao meu Git
+##### Seja bem vindo ao meu Git
 ```C
   #include <stdio.h>
   
