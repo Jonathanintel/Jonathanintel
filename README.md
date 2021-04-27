@@ -7,3 +7,4 @@
         printf("Gosto muito da intel kk");
   }
 ```
+https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical
