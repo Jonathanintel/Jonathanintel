@@ -13,5 +13,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jonathanintel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" width="340em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jonathanintel&layout=compact&langs_count=8&theme=tokyonight"/>
     
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8"/>
+   <img "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?Jonathanintel=anuraghazra&langs_count=8"/>
+   <img "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?Jonathanintel=anuraghazra&layout=compact"/>
 <div>
