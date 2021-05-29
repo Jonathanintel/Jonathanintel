@@ -10,7 +10,7 @@
 ## 🛠️ GitHub Stats
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonathanintel&show_icons=true&theme=dark&include_all_commits=true&count_private=true%22/%3E">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Jonathanintel">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathanintel&langs_count=8">
   <div>
     
 
