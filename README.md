@@ -14,6 +14,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonathanintel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathanintel&layout=compact&langs_count=16&theme=dark"/>
 </div>
+  
+### Tecnologias
+  https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JonathanIntel
     
 
     
