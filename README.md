@@ -1,21 +1,27 @@
-# Seja bem vindo ao meu Git
-```C
-  #include <stdio.h>
-  
-  void main(){
-        printf("Futuro desenvolvedor");
-        printf("Gosto muito da intel kk");
-  }
+# Bem-vindo(a) ao meu GitHUb
+```PHP
+<?php 
+ $info = array(
+    'nome' => 'Jonathan',
+    'sobrenome' => 'Castro',
+    'idade' => 15,
+    'instagram' => '@jonathan_linux'
+    'senioridade' => 'iniciante'
+    'interesses' => 'C, Python, CSS, Postgres'
+);
+?>
 ```
 ## 🛠️ GitHub Stats
 
 <div>
   <a href="https://github.com/Jonathanintel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonathanintel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathanintel&layout=compact&langs_count=16&theme=dark"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jonathanintel&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathanintel&layout=compact&langs_count=16&theme=white"/>
 </div>
   
-### Tecnologias
-    
+## 🌀 Tecnologias
+
+  <img src="https://img.shields.io/static/v1?label=&message=PHP&color=9370DB&style=for-the-badge"> <img src="https://img.shields.io/static/v1?label=&message=HTML5&color=FF6347&style=for-the-badge&logo=html">  <img src="https://img.shields.io/static/v1?label=&message=MySQL&color=4682B4&style=for-the-badge">
+
 
     
