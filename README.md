@@ -2,12 +2,10 @@
 ```PHP
 <?php 
  $info = array(
-    'nome' => 'Jonathan',
-    'sobrenome' => 'Castro',
+    'nome' => 'SharpBlue',
     'idade' => 15,
-    'instagram' => '@jonathan_linux'
     'senioridade' => 'iniciante'
-    'interesses' => 'C, Python, CSS, Postgres'
+    'interesses' => 'Redes, low-code e hacking'
 );
 ?>
 ```
