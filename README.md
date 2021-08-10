@@ -14,9 +14,9 @@
 ## 🛠️ GitHub Stats
 
 <div>
-  <a href="https://github.com/Jonathanintel">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jonathanintel&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathanintel&layout=compact&langs_count=16&theme=white"/>
+  <a href="https://github.com/SharpBluexd">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SharpBluexd&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharpBluexd&layout=compact&langs_count=16&theme=white"/>
 </div>
   
 ## 🌀 Tecnologias
